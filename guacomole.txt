@@ -1,7 +1,8 @@
 Ingredients
--- avocardos
+-- avocados
 -- onions
 -- cilantro
 
 Procedure
 -- mix together
+-- mash with fork
